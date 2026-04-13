@@ -1,3 +1,3 @@
 # Team Git lab
-lead
-Develop
+leader Б.Баттулга
+Developer Б.Золбаяр
